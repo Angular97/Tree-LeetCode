@@ -1,5 +1,7 @@
 - [minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 - [maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree/)
+- [all-possible-full-binary-trees](https://leetcode.com/problems/all-possible-full-binary-trees/)
+- [all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 - Unique Binary Search Trees - LeetCode
 - Validate Binary Search Tree - LeetCode
 - Sum of Root To Leaf Binary Numbers
