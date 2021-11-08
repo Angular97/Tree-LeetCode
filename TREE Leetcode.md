@@ -3,6 +3,7 @@
 - [all-possible-full-binary-trees](https://leetcode.com/problems/all-possible-full-binary-trees/)
 - [all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 - [increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree/)
+- https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
 - Unique Binary Search Trees - LeetCode
 - Validate Binary Search Tree - LeetCode
 - Sum of Root To Leaf Binary Numbers
